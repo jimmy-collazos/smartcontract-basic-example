@@ -1,7 +1,7 @@
 {
-  "name": "inbox",
+  "name": "smartcontract-basic-example",
   "version": "1.0.0",
-  "description": "pet project for learn Solidty",
+  "description": "Basic example of SmartContract",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
